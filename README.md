@@ -135,7 +135,7 @@ Rename: ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfi
  <img width="831" alt="Screenshot 2025-06-12 at 8 11 52 PM" src="https://github.com/user-attachments/assets/99f582d1-a312-42e3-9a0c-48cf9899832a" />
 </p>
 <p>
-Continue setup in osTicker web browser. Don't install just yet.
+Continue setup in osTicker web browser. Don't install just yet.(These are fake email addresses)
 </p>
 <br />
 
